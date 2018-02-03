@@ -3,20 +3,20 @@
 # Contributions-Pen
 > Draw in GitHub contributions graph
 
-### 简介
+## 简介
 利用 `PHP` 脚本,在 `GitHub` 的 提交日历上绘制图案
 
 ** 该脚本可能会破坏你的提交日历, 请谨慎使用 **
 
-### 运行环境
+## 运行环境
 推荐 `PHP7以上` , `Windows`/`Linux`/`Mac OS X` 操作系统皆可
 
 ** 请确认 `PHP` 已经添加到环境变量中 **
 
-### 原理
+## 原理
 利用将 `某次提交` 指定日期重复提交, 达到在 `GitHub 提交日历` 上进行绘画的效果
 
-### 使用方法
+## 使用方法
 1. 运行 `git clone https://github.com/Kurisu-A/Draw-in-github-contribution-activity.git` 将脚本拉取到本地文件夹 `A`
 2. 在 `GitHub` 新建一个储存库, 名称自定义
 3. 将新建的空的储存库使用 `git clone ********` 拉取到本地 `B`
@@ -25,7 +25,7 @@
 
 > 出现问题欢迎在 issue 中交流
 
-### 可以修改的配置
+## 可以修改的配置
 **通过调整 `config.php` 文件中的配置, 提供一定的变化**
 
 > ** autoCenter **
@@ -64,12 +64,12 @@ $arr = [
 ```
 >
 
-### 同类项目
+## 同类项目
 [angusshire/greenhat](https://github.com/angusshire/greenhat)
 > 用绿色覆盖整个提交日历
 
 [gelstudios/gitfiti](https://github.com/gelstudios/gitfiti)
 > Python实现在提交日历上绘制图案
 
-### LICENSE
+## LICENSE
 * MIT
