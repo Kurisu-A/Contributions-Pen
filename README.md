@@ -17,8 +17,8 @@ Draw in GitHub contributions graph
 利用将 `某次提交` 指定日期重复提交, 达到在 `GitHub 提交日历` 上进行绘画的效果
 
 ## 使用方法
-1. 运行 `git clone https://github.com/Kurisu-A/Draw-in-github-contribution-activity.git` 将脚本拉取到本地文件夹 `A`
-2. 在 `GitHub` 新建一个储存库, 名称自定义
+1. 运行 `git clone https://github.com/Kurisu-A/Contributions-Pen.git` 将脚本拉取到本地文件夹 `A`
+2. 在 `GitHub` 新建一个储存库, 名称自定义 
 3. 将新建的空的储存库使用 `git clone ********` 拉取到本地 `B`
 4. 将刚刚第一次拉取的 `A` 文件夹中的 `draw.php` 和 `config.php` 放入文件夹 `B` 中
 5. 在文件夹 `B` 中运行指令 `php draw.php` 即可
