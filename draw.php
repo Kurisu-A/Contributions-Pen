@@ -69,12 +69,12 @@ function main()
             if (in_array($targetArr[$rowNumber][$colNumber], $intArr)) {
                 for ($i = 0; $i < (int)$targetArr[$rowNumber][$colNumber]; ++$i) {
                     shell_exec('git commit --amend --date="' . date('Y', $time) . '-' . date('m', $time) . '-' . date('d', $time) . 'T11:11:00+0800" -C ' . $firstHash);
-                    shell_exec('git pull --no-edit origin master ');
+                    shell_exec('git pull --no-edit origin master  --allow-unrelated-histories');
                     shell_exec('git push origin master');
                 }
             } elseif ($targetArr[$rowNumber][$colNumber] != $conf['zeroChar']) {
                 shell_exec('git commit --amend --date="' . date('Y', $time) . '-' . date('m', $time) . '-' . date('d', $time) . 'T11:11:00+0800" -C ' . $firstHash);
-                shell_exec('git pull --no-edit origin master ');
+                shell_exec('git pull --no-edit origin master  --allow-unrelated-histories');
                 shell_exec('git push origin master');
             }
         }
