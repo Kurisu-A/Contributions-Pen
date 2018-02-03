@@ -6,12 +6,12 @@
 ## 简介
 利用 `PHP` 脚本,在 `GitHub` 的 提交日历上绘制图案
 
-** 该脚本可能会破坏你的提交日历, 请谨慎使用 **
+**该脚本可能会破坏你的提交日历, 请谨慎使用**
 
 ## 运行环境
 推荐 `PHP7以上` , `Windows`/`Linux`/`Mac OS X` 操作系统皆可
 
-** 请确认 `PHP` 已经添加到环境变量中 **
+**请确认 `PHP` 已经添加到环境变量中**
 
 ## 原理
 利用将 `某次提交` 指定日期重复提交, 达到在 `GitHub 提交日历` 上进行绘画的效果
@@ -26,23 +26,23 @@
 > 出现问题欢迎在 issue 中交流
 
 ## 可以修改的配置
-**通过调整 `config.php` 文件中的配置, 提供一定的变化**
+通过调整 `config.php` 文件中的配置, 提供一定的变化
 
-> ** autoCenter **
+> **autoCenter**
 >
 > 如果设为 `true` ,则自动居中
 >
-> ** beginningBlank **
+> **beginningBlank**
 >
 > 如果设为`n`, 则在开头空出 `n`列
 >
-> ** user.name (必填) **
+> **user.name (必填)**
 >
 > 进行本次提交的用户名
 >
-> ** user.email (必填) **
+> **user.email (必填 **
 >
-> 进行本次提交的邮箱 ** 请注意保护隐私 **
+> 进行本次提交的邮箱 **请注意保护隐私**
 > [learn more about this](https://help.github.com/articles/why-are-my-contributions-not-showing-up-on-my-profile/)
 >
 
