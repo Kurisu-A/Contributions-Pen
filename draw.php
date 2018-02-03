@@ -11,7 +11,6 @@ main();
 
 function main()
 {
-
     $conf = require_once('config.php');
     shell_exec('git config user.name ' . $conf['user.name']);
     shell_exec('git config user.email ' . $conf['user.email']);

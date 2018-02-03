@@ -1,7 +1,7 @@
 ![](https://img.shields.io/badge/PHP-%5E7.0.0-blue.svg 'img')
 ![](https://img.shields.io/badge/OS-Windows%20%7C%20Linux%20%7C%20Mac%20OS%20X-green.svg 'img')
 # Contributions-Pen
-> Draw in GitHub contributions graph
+Draw in GitHub contributions graph
 
 ## 简介
 利用 `PHP` 脚本,在 `GitHub` 的 提交日历上绘制图案
