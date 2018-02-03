@@ -8,6 +8,8 @@ Draw in GitHub contributions graph
 
 **该脚本可能会破坏你的提交日历, 请谨慎使用**
 
+> 虽然其实已经有很多相同的轮子了。。比如greenHat，比如gitfiti，但是greenHat没有办法让我画画。。。gitfiti的话看不懂Py。。。。所以无奈。。自己用php造了个轮子。。。
+
 ## 运行环境
 推荐 `PHP7以上` , `Windows`/`Linux`/`Mac OS X` 操作系统皆可
 
@@ -21,8 +23,10 @@ Draw in GitHub contributions graph
 2. 在 `GitHub` 新建一个储存库, 名称自定义 
 3. 将新建的空的储存库使用 `git clone ********` 拉取到本地 `B`
 4. 将刚刚第一次拉取的 `A` 文件夹中的 `draw.php` 和 `config.php` 放入文件夹 `B` 中
-5. 在文件夹 `B` 中运行指令 `php draw.php` 即可
+5. 在文件夹 `B` 中运行指令 `php draw.php` 
 
+> 运行时间视图案的复杂程度而定，复杂一些的图案会在^10min中完成
+>
 > 出现问题欢迎在 issue 中交流
 
 ## 可以修改的配置
