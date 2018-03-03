@@ -8,7 +8,7 @@ Draw in GitHub contributions graph
 
 **该脚本可能会破坏你的提交日历, 请谨慎使用**
 
-> 虽然其实已经有很多相同的轮子了。。比如greenHat，比如gitfiti，但是greenHat没有办法让我画画。。。gitfiti的话看不懂Py。。。。所以无奈。。自己用php造了个轮子。。。
+> 虽然其实已经有很多相同的轮子了。。比如greenHat，比如gitfiti，但是greenHat没有办法让我画画。。。gitfiti的话开始造轮子的时候还不是太熟PY，导致有些硌手。。。。。。所以无奈。。自己用php造了个轮子。。。
 
 ## 运行环境
 推荐 `PHP7以上` , `Windows`/`Linux`/`Mac OS X` 操作系统皆可
