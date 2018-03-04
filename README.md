@@ -74,6 +74,7 @@ $arr = [
 ![](https://github.com/Kurisu-A/Contributions-Pen/blob/master/img/github.png)
 ![](https://github.com/Kurisu-A/Contributions-Pen/blob/master/img/life%20is%20short.png)
 ![](https://github.com/Kurisu-A/Contributions-Pen/blob/master/img/php_is_best.png)
+![](https://github.com/Kurisu-A/Contributions-Pen/blob/master/img/go_is_best.png)
 ![](https://github.com/Kurisu-A/Contributions-Pen/blob/master/img/talk_is_cheap.png)
 
 ## 建议
