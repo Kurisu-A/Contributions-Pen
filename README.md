@@ -1,9 +1,9 @@
-![](https://img.shields.io/badge/PHP-%5E7.0.0-blue.svg 'img')
-![](https://img.shields.io/badge/OS-Windows%20%7C%20Linux%20%7C%20Mac%20OS%20X-green.svg 'img')
-# Contributions-Pen
-Draw in GitHub contributions graph
 
-> 更多样例预览点击此处 link[]()
+# Contributions-Pen
+![](https://img.shields.io/badge/PHP-%5E7.0.0-blue.svg 'img')   ![](https://img.shields.io/badge/OS-Windows%20%7C%20Linux%20%7C%20Mac%20OS%20X-green.svg 'img')  
+Draw in GitHub contributions graph
+![](https://github.com/Kurisu-A/Contributions-Pen/blob/master/img/kurisu2.png)
+> 更多样例预览点击 [link](https://github.com/Kurisu-A/Contributions-Pen#show)
 
 ## 简介
 利用 `PHP` 脚本,在 `GitHub` 的 提交日历上绘制图案
@@ -69,9 +69,16 @@ $arr = [
   ];
 ```
 >
-
+------
 ## show
+![](https://github.com/Kurisu-A/Contributions-Pen/blob/master/img/github.png)
+![](https://github.com/Kurisu-A/Contributions-Pen/blob/master/img/life%20is%20short.png)
+![](https://github.com/Kurisu-A/Contributions-Pen/blob/master/img/php_is_best.png)
+![](https://github.com/Kurisu-A/Contributions-Pen/blob/master/img/talk_is_cheep.png)
 
+## 建议
+在运行代码之前，可以使用 `img/basic.png` 的基础图，在 Photoshop 中先画出效果图，然后再在代码中编辑字符串，减少尝试的次数  
+![](https://github.com/Kurisu-A/Contributions-Pen/blob/master/img/basic.png)
 
 ## 同类项目
 [angusshire/greenhat](https://github.com/angusshire/greenhat)
