@@ -3,6 +3,8 @@
 # Contributions-Pen
 Draw in GitHub contributions graph
 
+> 更多样例预览点击此处 link[]()
+
 ## 简介
 利用 `PHP` 脚本,在 `GitHub` 的 提交日历上绘制图案
 
@@ -67,6 +69,9 @@ $arr = [
   ];
 ```
 >
+
+## show
+
 
 ## 同类项目
 [angusshire/greenhat](https://github.com/angusshire/greenhat)
