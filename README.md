@@ -74,7 +74,7 @@ $arr = [
 ![](https://github.com/Kurisu-A/Contributions-Pen/blob/master/img/github.png)
 ![](https://github.com/Kurisu-A/Contributions-Pen/blob/master/img/life%20is%20short.png)
 ![](https://github.com/Kurisu-A/Contributions-Pen/blob/master/img/php_is_best.png)
-![](https://github.com/Kurisu-A/Contributions-Pen/blob/master/img/talk_is_cheep.png)
+![](https://github.com/Kurisu-A/Contributions-Pen/blob/master/img/talk_is_cheap.png)
 
 ## 建议
 在运行代码之前，可以使用 `img/basic.png` 的基础图，在 Photoshop 中先画出效果图，然后再在代码中编辑字符串，减少尝试的次数  
